@@ -4,8 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Omkar-yellow)](https://stackoverflow.com/users/21295266/omkar)
 
 I'm
-Full Stack Developer
-I am a Full Stack Web Developer and an Intern at Edureka.Currently I am working in Capgemini as an Analyst.Having a knowledge of frontend using HTML,CSS,Javascript and have an interest in MERN stack.Also i have knowledge of backend using MySQL/Oracle database.
+Full Stack Developer and an Intern at Edureka.Currently I am working in Capgemini as an Analyst.Having a knowledge of frontend using HTML,CSS,Javascript and have an interest in MERN stack.Also i have knowledge of backend using MySQL/Oracle database.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/oghorpade/count.svg)
